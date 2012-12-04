@@ -1,4 +1,4 @@
-webservice-JAX-WS-Spring
-========================
+webservice-JAX-WS-Web-Metro
+===========================
 
-Web service implementation with spring framework
+Web service web implementation using GlassFish Metro
